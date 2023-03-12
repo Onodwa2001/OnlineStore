@@ -1,5 +1,7 @@
 package za.ac.cput.onlinestore;
 
+import za.ac.cput.onlinestore.domain.TransactionReports;
+
 /**
  * Hello world!
  *
