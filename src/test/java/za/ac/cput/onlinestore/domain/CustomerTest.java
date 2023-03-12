@@ -1,6 +1,7 @@
-package za.ac.cput.onlinestore;
+package za.ac.cput.onlinestore.domain;
 
 import org.junit.Test;
+import za.ac.cput.onlinestore.domain.Customer;
 
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertSame;

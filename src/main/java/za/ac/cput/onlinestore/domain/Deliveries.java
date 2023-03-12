@@ -7,7 +7,7 @@
  *
  */
 
-package za.ac.cput.onlinestore;
+package za.ac.cput.onlinestore.domain;
 
 public class Deliveries {
     private String customerId;

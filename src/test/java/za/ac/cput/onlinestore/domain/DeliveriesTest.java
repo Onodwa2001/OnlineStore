@@ -7,9 +7,10 @@
  *
  */
 
-package za.ac.cput.onlinestore;
+package za.ac.cput.onlinestore.domain;
 
 import org.junit.jupiter.api.*;
+import za.ac.cput.onlinestore.domain.Deliveries;
 
 import static org.junit.jupiter.api.Assertions.*;
 
