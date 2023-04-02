@@ -2,7 +2,7 @@ package za.ac.cput.onlinestore;
 
 public class Product {
     private String productId ;
-    private String name ;
+    private String name;
     private double price;
     private int  quantity;
 
